@@ -18,3 +18,20 @@ Java based image processor to edit images as well as make an image into a jigsaw
   
 # Screenshots
 
+- 
+
+![alt text](assets/ZxImageLogin.png "Login")
+
+- 
+
+![alt text](assets/ZxImagePuzzle1.png "Image processor")
+
+-
+
+![alt text](assets/ZxImagePuzzle2.png "Multi image processor")
+
+- 
+
+![alt text](assets/ICEDisease.png "Disease information")
+
+
